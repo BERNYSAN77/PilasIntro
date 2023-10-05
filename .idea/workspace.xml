@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a325d03a-a177-4521-90c5-cabcb940a4df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PilasIntro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ventana.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ventana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromo/PilaChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromo/PrincipalPal.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromo/PrincipalPal.java" afterDir="false" />
-    </list>
+    <list default="true" id="a325d03a-a177-4521-90c5-cabcb940a4df" name="Changes" comment="introducción a las estructuras de datos (pilas)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +73,18 @@
       <option name="presentableId" value="Default" />
       <updated>1696522542404</updated>
     </task>
+    <task id="LOCAL-00001" summary="introducción a las estructuras de datos (pilas)">
+      <created>1696531443194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696531443194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="introducción a las estructuras de datos (pilas)" />
+    <option name="LAST_COMMIT_MESSAGE" value="introducción a las estructuras de datos (pilas)" />
   </component>
 </project>
